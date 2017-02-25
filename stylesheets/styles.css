@@ -269,3 +269,10 @@ footer {
     color:#444;
   }
 }
+
+img.stretchy {
+width: 100%;
+}
+.container {
+width: 33%;
+}
