@@ -270,6 +270,10 @@ footer {
   }
 }
 
+a, figure {
+    display: inline-block;
+}
+
 figcaption { 
     display: block;
 }
