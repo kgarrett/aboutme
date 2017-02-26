@@ -269,13 +269,3 @@ footer {
     color:#444;
   }
 }
-
-input {
-border: none;
-background: #FFF;
-width: 165px;
-}
-.rounded {
-background:  url(rounded.gif) no-repeat left top;
-padding: 8px;
-}
