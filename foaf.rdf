@@ -20,7 +20,7 @@
 <foaf:depiction rdf:resource="https://kgarrett.github.io/headshot.jpg"/>
 <foaf:workplaceHomepage rdf:resource="http://edgecase.io/"/>
 <foaf:workInfoHomepage rdf:resource="As a taxonomist, I arrange data thoughtfully."/>
-<foaf:schoolHomepage rdf:resource="https://www.ischool.utexas.edu/" dc:title="The University of Texas at Austin"/>
+<foaf:schoolHomepage rdf:resource="https://www.ischool.utexas.edu/"/>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Katelyn Helberg</foaf:name>
