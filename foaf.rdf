@@ -1,3 +1,7 @@
+## Creator: Kelly Garrett, FOAF-a-Matic
+## Time: 2017-02-27
+## Description: My FOAF file
+
 <rdf:RDF
       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
       xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
@@ -19,7 +23,7 @@
 <foaf:depiction rdf:resource="https://kgarrett.github.io/headshot.jpg"/>
 <foaf:workplaceHomepage rdf:resource="http://edgecase.io/"/>
 <foaf:workInfoHomepage rdf:resource="As a taxonomist, I arrange data thoughtfully."/>
-<foaf:schoolHomepage rdf:resource="https://www.ischool.utexas.edu/"/>
+<foaf:schoolHomepage rdf:resource="https://www.ischool.utexas.edu/" dc:title="The University of Texas at Austin"/>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Katelyn Helberg</foaf:name>
