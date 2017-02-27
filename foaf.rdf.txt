@@ -1,0 +1,39 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>Kelly Garrett</foaf:name>
+<foaf:title>Ms</foaf:title>
+<foaf:givenname>Kelly</foaf:givenname>
+<foaf:family_name>Garrett</foaf:family_name>
+<foaf:mbox_sha1sum>07144e3f4a9447a7db47fa3918018a4845d5c927</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="https://kgarrett.github.io/"/>
+<foaf:depiction rdf:resource="https://kgarrett.github.io/headshot.jpg"/>
+<foaf:workplaceHomepage rdf:resource="http://edgecase.io/"/>
+<foaf:workInfoHomepage rdf:resource="As a taxonomist, I arrange data thoughtfully."/>
+<foaf:schoolHomepage rdf:resource="https://www.ischool.utexas.edu/"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Katelyn Helberg</foaf:name>
+<foaf:mbox_sha1sum>0b299b9cec30acb2a0eaa024171ae1f7fb1dfad5</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Lichen Zhen</foaf:name>
+<foaf:mbox_sha1sum>b176a2c8439b455dd95ebbf8e1379525ba1bb486</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Nikki Marie Koehlert</foaf:name>
+<foaf:mbox_sha1sum>2edd9a2c125c9282fb56bd681225e6b91c751b2c</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Will Clements</foaf:name>
+<foaf:mbox_sha1sum>8af8de16911930ed5edb33636179656c032d978d</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
+</rdf:RDF>
