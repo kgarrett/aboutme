@@ -1,2 +1,2 @@
 # Kelly Garrett
-My personal website, excuse the sloppiness.
+My personal website. There are some old files thrown in here, excuse the sloppiness.
